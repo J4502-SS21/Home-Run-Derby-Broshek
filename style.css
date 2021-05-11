@@ -101,3 +101,14 @@ img {
   margin-right: auto;
   width: 90%;
 }
+
+p {
+  background:#4682b4;
+  text-align:center;
+  color: black;
+  margin: 0;
+  width: 100%;
+  float: left;
+  padding-bottom: 200px;
+  font-family: 'Lato', sans-serif;
+}
